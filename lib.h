@@ -1,1 +1,1 @@
-
+int NP(int);
