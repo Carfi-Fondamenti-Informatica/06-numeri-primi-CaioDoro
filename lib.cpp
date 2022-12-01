@@ -1,3 +1,5 @@
+#include "lib.h"
+
 int NP (int num) {
     int i;
     int div=0;
